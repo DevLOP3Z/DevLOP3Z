@@ -1,9 +1,10 @@
-<h1 align="left">Salve👋 Sou Lucas Evaldo</h1>
+<h1 align="left"> Hey!👋 </h1>
 
 ###
 
-<p align="left">Estudante e entusiasta em tecnologias front e back end</p>
+<p align="left">Sou Lucas Evaldo, desenvolvedor full stack no brasil </p>
 
+<p align="left">Não gosto de tipificar as ideias como faceis, medias ou dificeis mas quanta dedicação é precisa para fazer acontecer  </p>
 ###
 
 <h2 align="left">Sobre mim</h2>
