@@ -32,5 +32,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
+<div class="col col-xs-6 col-sm-4 col-md-3 p-2">
+      <a href="#" class="btn btn-social btn-linkedin"><i class="fa fa-fw fa-linkedin"></i> LinkedIn</a>
+    </div>
 
 ###
